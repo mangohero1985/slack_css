@@ -6,8 +6,8 @@ https://raw.githubusercontent.com/mangohero1985/slack_css/master/custom.css
 
 
 ### code
-		
-		// First make sure the wrapper app is loaded
+```
+// First make sure the wrapper app is loaded
 document.addEventListener("DOMContentLoaded", function() {
 
    // Then get its webviews
@@ -53,3 +53,4 @@ document.addEventListener("DOMContentLoaded", function() {
       });
    });
 });
+```
