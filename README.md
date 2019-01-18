@@ -1,8 +1,12 @@
-css_path:
+### css_path:
 https://raw.githubusercontent.com/mangohero1985/slack_css/master/custom.css
 
-config_path:
+### config_path:
 /Applications/Slack.app/Contents/resources\app.asar.unpacked\src\static\ssb-interop.js
+
+
+### code
+
 
 // First make sure the wrapper app is loaded
 document.addEventListener("DOMContentLoaded", function() {
